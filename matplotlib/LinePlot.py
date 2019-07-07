@@ -1,4 +1,5 @@
 # Plot using a simple Line Plot
+# Good to use when viewing data over time
 
 # Import pyplot form matplotlib
 from matplotlib import pyplot as plt
